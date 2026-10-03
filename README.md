@@ -4,14 +4,18 @@
 > 하루 **3~4시간** 걸리던 수작업 판별을 **30분**으로 단축했습니다.
 
 
-![demo](./docs/demo.png)
-`▲ [그림 1] RFI 수집기 데이터 수집 실행 화면`  
+<p align = 'center'><img src = './docs/demo.png', height = '100px', width = '300px'></p>
+<p align = 'center'>▲ [그림 1] RFI 수집기 데이터 수집 실행 화면
 
-![log](./docs/log.png)
-`▲ [그림 2] log 화면`  
+&nbsp;
 
-![result](./docs/result.png)
-`▲ [그림 3] 결과 엑셀 화면`
+<p align = 'center'><img src = './docs/log.png', height = '50%', width = ''></p>
+<p align = 'center'>▲ [그림 2] rfi log 화면  
+
+&nbsp;
+
+<p align = 'center'><img src = './docs/result.png', height = '50%', width = ''></p>
+<p align = 'center'>▲ [그림 3] 실행 결과 엑셀 화면  
 
 ## 📌 배경
 
